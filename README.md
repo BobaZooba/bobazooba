@@ -19,11 +19,21 @@ Currently, I am open for a new opportunities.
 
 [@BobaZooba](https://t.me/BobaZooba) | [CV](https://docs.google.com/document/d/1BhFvIHQ1mpm81P-n2A-lhNac-U2wOGc6F2uS9gKvk88/edit?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/boriszubarev/) | [bobazooba@gmail.com](mailto:bobazooba@gmail.com)
 
-# X—LLM
-
-[🦖 X—LLM: Cutting Edge & Easy LLM Finetuning](https://github.com/BobaZooba/xllm)
+# [🦖 X—LLM: Cutting Edge & Easy LLM Finetuning](https://github.com/BobaZooba/xllm)
 
 Cutting Edge & Easy LLM Finetuning using the most advanced methods (QLoRA, DeepSpeed, GPTQ, Flash Attention 2, FSDP, etc)
+
+### Why you should use X—LLM 🪄
+
+Are you using **Large Language Models (LLMs)** for your work and want to train them more efficiently with advanced
+methods? Wish to focus on the data and improvements rather than repetitive and time-consuming coding for LLM training?
+
+**X—LLM** is your solution. It's a user-friendly library that streamlines training optimization, so you can **focus on
+enhancing your models and data**. Equipped with **cutting-edge training techniques**, X—LLM is engineered for efficiency
+by engineers who understand your needs.
+
+**X—LLM** is ideal whether you're **gearing up for production** or need a **fast prototyping tool**.
+
 
 # Tale Quest
 
