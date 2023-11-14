@@ -51,7 +51,7 @@ Practice English with your personal AI native speaker. Exciting text & voice com
 
 15,000+ happy users
 
-Try it now: [https://t.me/talequestbot](https://t.me/PapayaAIBot?start=Z2g)
+Try it now: [https://t.me/papayaaibot](https://t.me/PapayaAIBot?start=Z2g)
 
 # Open source models
 
