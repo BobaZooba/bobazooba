@@ -62,7 +62,7 @@ Try it now: [https://t.me/papayaaibot](https://t.me/PapayaAIBot?start=Z2g)
 
 As a seasoned professional with over six years in Conversational AI, Deep Learning and Natural Language Processing, I excel in roles as a Machine Learning Engineer, Research Engineer, Team Lead and Mentor. 
 
-I am intrigued by the potential of Large Language Models (LLMs) and looking for opportunities to utilise my talents in this area. Although I'm based in Armenia, I am globally mobile and prepared for remote work arrangements.
+I am intrigued by the potential of Large Language Models (LLMs) and looking for opportunities to utilise my talents in this area. Although I'm based in Georgia, I am globally mobile and prepared for remote work arrangements.
 
 My achievements:
 - Repeatedly achieved significant success in product development: increased customer satisfaction rates in open domain dialog system (from 20% to 75%), reduced translation costs for various B2B clients (from 15% to 45%), and improved machine translation quality (by up to 50%).
