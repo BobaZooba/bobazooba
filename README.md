@@ -12,8 +12,7 @@ the same for you.
 the skills they need to succeed.
 
 **Want to know more?** Check
-out [my CV](https://docs.google.com/document/d/1BhFvIHQ1mpm81P-n2A-lhNac-U2wOGc6F2uS9gKvk88/edit?usp=sharing), [LinkedIn](https://www.linkedin.com/in/boriszubarev/),
-and [past projects](https://komplete.framer.ai/cases) for the full scoop.
+out [my CV](https://docs.google.com/document/d/1BhFvIHQ1mpm81P-n2A-lhNac-U2wOGc6F2uS9gKvk88/edit?usp=sharing) and LinkedIn](https://www.linkedin.com/in/boriszubarev/) for the full scoop.
 
 Currently, I am open for a new opportunities.
 
